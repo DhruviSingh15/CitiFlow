@@ -1,4 +1,4 @@
-  """
+"""
 Liquidity Service — Phase 4
 ============================
 Manages simulated rail liquidity pools.
