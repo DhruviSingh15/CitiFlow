@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# ML models (large binary files)
+backend/ml/models/*.pkl
+backend/ml/data/*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Node
+node_modules/
+dist/
+.next/
+
+# Blockchain
+blockchain/artifacts/
+blockchain/cache/
+blockchain/.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
